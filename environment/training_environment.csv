@@ -1,0 +1,16 @@
+component,value
+training_environment_confirmed,True
+training_environment_note,The environment recorded by this notebook is the same environment used for the original TF-IDF and BERTimbau training runs.
+python,"3.11.13 (main, Jun  5 2025, 13:12:00) [GCC 11.2.0]"
+platform,Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39
+numpy,2.0.1
+pandas,2.3.0
+scikit-learn,1.7.0
+scipy,1.15.3
+torch,2.5.1
+transformers,4.41.0
+datasets,3.6.0
+accelerate,1.13.0
+cuda_available,True
+cuda_version,12.1
+gpu_name,NVIDIA GeForce RTX 4070 Laptop GPU

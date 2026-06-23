@@ -1,0 +1,6 @@
+scope,target,n,exact_agreement,cohen_kappa,quadratic_weighted_kappa,mae
+all_2024,applicability,989,0.8554095045500506,0.5908174277340416,,
+both_predicted_applicable,acceptance_3,691,1.0,1.0,1.0,0.0
+both_predicted_applicable,intensity_3,691,0.5672937771345875,0.29528516513689496,0.4614362513792052,0.44862518089725034
+both_predicted_applicable,acceptance_5,691,1.0,1.0,1.0,0.0
+both_predicted_applicable,intensity_5,691,1.0,1.0,1.0,0.0

@@ -1,0 +1,5 @@
+subset_col,group,n,acceptance_3_agree_rate,intensity_3_agree_rate,acceptance_5_agree_rate,intensity_5_agree_rate
+in_consensus_3class,retained,395,1.0,1.0,0.8405063291139241,0.7139240506329114
+in_consensus_3class,removed,339,0.5191740412979351,0.1976401179941003,0.3834808259587021,0.12389380530973451
+in_consensus_5class,retained,244,1.0,1.0,1.0,1.0
+in_consensus_5class,removed,490,0.6673469387755102,0.4448979591836735,0.4448979591836735,0.16326530612244897

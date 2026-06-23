@@ -1,0 +1,131 @@
+component,parameter,value,source
+tfidf_word_logreg,tfidf__analyzer,'word',runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__binary,False,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__decode_error,'strict',runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__dtype,<class 'numpy.float64'>,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__encoding,'utf-8',runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__input,'content',runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__lowercase,True,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__max_df,1.0,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__max_features,30000,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__min_df,2,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__ngram_range,"(1, 2)",runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__norm,'l2',runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__preprocessor,None,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__smooth_idf,True,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__stop_words,None,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__strip_accents,None,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__sublinear_tf,False,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__token_pattern,'(?u)\\b\\w\\w+\\b',runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__tokenizer,None,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__use_idf,True,runtime sklearn estimator.get_params()
+tfidf_word_logreg,tfidf__vocabulary,None,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__C,1.0,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__class_weight,'balanced',runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__dual,False,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__fit_intercept,True,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__intercept_scaling,1,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__l1_ratio,None,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__max_iter,3000,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__multi_class,'deprecated',runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__n_jobs,None,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__penalty,'l2',runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__random_state,None,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__solver,'lbfgs',runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__tol,0.0001,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__verbose,0,runtime sklearn estimator.get_params()
+tfidf_word_logreg,clf__warm_start,False,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__analyzer,'char_wb',runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__binary,False,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__decode_error,'strict',runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__dtype,<class 'numpy.float64'>,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__encoding,'utf-8',runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__input,'content',runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__lowercase,True,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__max_df,1.0,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__max_features,50000,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__min_df,2,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__ngram_range,"(3, 5)",runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__norm,'l2',runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__preprocessor,None,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__smooth_idf,True,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__stop_words,None,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__strip_accents,None,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__sublinear_tf,False,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__token_pattern,'(?u)\\b\\w\\w+\\b',runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__tokenizer,None,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__use_idf,True,runtime sklearn estimator.get_params()
+tfidf_char_logreg,tfidf__vocabulary,None,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__C,1.0,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__class_weight,'balanced',runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__dual,False,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__fit_intercept,True,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__intercept_scaling,1,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__l1_ratio,None,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__max_iter,3000,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__multi_class,'deprecated',runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__n_jobs,None,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__penalty,'l2',runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__random_state,None,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__solver,'lbfgs',runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__tol,0.0001,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__verbose,0,runtime sklearn estimator.get_params()
+tfidf_char_logreg,clf__warm_start,False,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__analyzer,'word',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__binary,False,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__decode_error,'strict',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__dtype,<class 'numpy.float64'>,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__encoding,'utf-8',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__input,'content',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__lowercase,True,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__max_df,1.0,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__max_features,30000,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__min_df,2,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__ngram_range,"(1, 2)",runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__norm,'l2',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__preprocessor,None,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__smooth_idf,True,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__stop_words,None,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__strip_accents,None,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__sublinear_tf,False,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__token_pattern,'(?u)\\b\\w\\w+\\b',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__tokenizer,None,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__use_idf,True,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,tfidf__vocabulary,None,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__C,1.0,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__class_weight,'balanced',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__dual,'auto',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__fit_intercept,True,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__intercept_scaling,1,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__loss,'squared_hinge',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__max_iter,1000,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__multi_class,'ovr',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__penalty,'l2',runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__random_state,None,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__tol,0.0001,runtime sklearn estimator.get_params()
+tfidf_word_linearsvc,clf__verbose,0,runtime sklearn estimator.get_params()
+bertimbau_weighted,model_name,'neuralmind/bert-base-portuguese-cased',final experiment notebook configuration
+bertimbau_weighted,tokenizer,'AutoTokenizer.from_pretrained(model_name)',final experiment notebook configuration
+bertimbau_weighted,model_class,'AutoModelForSequenceClassification',final experiment notebook configuration
+bertimbau_weighted,max_length,160,final experiment notebook configuration
+bertimbau_weighted,truncation,True,final experiment notebook configuration
+bertimbau_weighted,padding,'dynamic via DataCollatorWithPadding',final experiment notebook configuration
+bertimbau_weighted,epochs,3,final experiment notebook configuration
+bertimbau_weighted,train_batch_size,8,final experiment notebook configuration
+bertimbau_weighted,eval_batch_size,8,final experiment notebook configuration
+bertimbau_weighted,learning_rate,2e-05,final experiment notebook configuration
+bertimbau_weighted,weight_decay,0.01,final experiment notebook configuration
+bertimbau_weighted,loss,'CrossEntropyLoss with fold-specific class weights',final experiment notebook configuration
+bertimbau_weighted,save_strategy,'no',final experiment notebook configuration
+bertimbau_weighted,evaluation_strategy,'no',final experiment notebook configuration
+bertimbau_weighted,logging_steps,50,final experiment notebook configuration
+bertimbau_weighted,fp16,'torch.cuda.is_available()',final experiment notebook configuration
+bertimbau_weighted,seed,"'fold seed: 42, 2026, or 7'",final experiment notebook configuration
+bertimbau_weighted,early_stopping,False,final experiment notebook configuration
+bertimbau_weighted,checkpoint_selection,'none; no checkpoint-based model selection',final experiment notebook configuration
+bertimbau_weighted,optimizer,'Trainer default for installed transformers version',final experiment notebook configuration
+bertimbau_weighted,scheduler,"'Trainer default, normally linear'",final experiment notebook configuration
+bertimbau_weighted,warmup_steps,0,final experiment notebook configuration
+bertimbau_weighted,warmup_ratio,0.0,final experiment notebook configuration
+bertimbau_weighted,gradient_accumulation_steps,1,final experiment notebook configuration
+bertimbau_weighted,max_grad_norm,1.0,final experiment notebook configuration

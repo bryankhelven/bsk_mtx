@@ -1,0 +1,18 @@
+{
+  "builder_version": "1.0.4",
+  "text_policy": "redacted",
+  "corpus": {
+    "main_total": 1497,
+    "applicable": 734,
+    "excluded": 763,
+    "consensus_3class": 395,
+    "consensus_5class": 244
+  },
+  "external_2024": {
+    "external_2024_records": 989,
+    "external_2024_unique_hashes": 973,
+    "external_2024_non_portuguese": 124,
+    "external_2024_linear_applicable": 773,
+    "external_2024_hybrid_applicable": 752
+  }
+}

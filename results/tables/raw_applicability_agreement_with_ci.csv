@@ -1,0 +1,2 @@
+n,accuracy,balanced_accuracy,macro_f1,weighted_f1,cohen_kappa,linear_weighted_kappa,quadratic_weighted_kappa,mae,exact_agreement,n_conflicts,exact_agreement_ci_low,exact_agreement_ci_high,cohen_kappa_ci_low,cohen_kappa_ci_high
+1497,0.884435537742151,0.8886124955659624,0.8844105734147131,0.8843073118784928,0.7701311945977756,,,,0.884435537742151,173,0.8684034736138945,0.8997995991983968,0.7387306538792211,0.8002429076808549

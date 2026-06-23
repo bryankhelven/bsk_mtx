@@ -1,0 +1,11 @@
+metric,n
+text_items,1497
+a1_items_after_full_consolidation,1497
+a2_items_after_full_consolidation,1497
+applicability_conflicts_after_final,0
+final_excluded_consensus,763
+final_applicable_consensus,734
+final_app_adjudication_entries_total,56
+axis_applicable_valid_pairs,734
+axis_5class_full_pair_consensus,244
+axis_3class_full_pair_consensus,395

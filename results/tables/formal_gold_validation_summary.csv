@@ -1,0 +1,5 @@
+validation_layer,n,agreement_requirement,use,raw_applicability_exact_agreement,raw_applicability_cohen_kappa,raw_applicability_conflicts
+applicability_final_gold,1497,effective agreement or explicit final adjudication,primary applicability training and evaluation gold,0.884435537742151,0.7701311945977756,173
+paired_axis_annotations,733,both annotators supplied valid labels; disagreement preserved,human agreement and disagreement-aware analysis,0.884435537742151,0.7701311945977756,173
+exact_consensus_3class,395,exact agreement on both 3-class axes,hard-label three-class training and evaluation,0.884435537742151,0.7701311945977756,173
+exact_consensus_5class,244,exact agreement on both 5-class axes,hard-label five-class training and evaluation,0.884435537742151,0.7701311945977756,173

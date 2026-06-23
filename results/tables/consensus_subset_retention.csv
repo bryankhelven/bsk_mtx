@@ -1,0 +1,6 @@
+subset,n,retention_vs_full
+full_applicable,734,1.0
+consensus_3class,395,0.5381471389645777
+consensus_5class,244,0.33242506811989103
+removed_from_3class_consensus,339,
+removed_from_5class_consensus,490,
